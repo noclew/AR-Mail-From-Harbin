@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e23c8043812e74e1cbcee41d7ab65b46
+timeCreated: 1506967317
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Intro Bold Alt
+  fontNames:
+  - Intro Bold Alt
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 52ba89d9c84e24d91b0ea4ac45f85d44, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

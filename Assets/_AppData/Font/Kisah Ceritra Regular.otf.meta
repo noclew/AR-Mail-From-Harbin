@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f5d43160639ea154aa91909481ee09a5
+timeCreated: 1501032763
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kisah Ceritra
+  fontNames:
+  - Kisah Ceritra
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

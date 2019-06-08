@@ -1,0 +1,58 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 28.07.2017 04:19:07
+
+newmtl 160705_03_interior_dome_etc_aHfMpG_v02_Chunk01_qM_ubcGMN4k_f0004k
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\160705_03_interior_dome_etc_aHfMpG_v02_Chunk01_qM_ubcGMN4k_f0004k.jpg
+	map_Kd maps\160705_03_interior_dome_etc_aHfMpG_v02_Chunk01_qM_ubcGMN4k_f0004k.jpg
+
+newmtl 160707_sophia_wall_low_no_01_main_etc_aHfMpG_v03_wallno_aligned_ubcGMN4k_f0004k
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\160707_sophia_wall_low_no_01_main_etc_aHfMpG_v03_wallno_aligned_ubcGMN4k_f0004k.jpg
+	map_Kd maps\160707_sophia_wall_low_no_01_main_etc_aHfMpG_v03_wallno_aligned_ubcGMN4k_f0004k.jpg
+
+newmtl 160707_sophia_wall_low_so_01_main_etc_aHfMpG_v03_wallso_aligned_ubcGMN4k_f0004k
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\160707_sophia_wall_low_so_01_main_etc_aHfMpG_v03_wallso_aligned_ubcGMN4k_f0004k.jpg
+	map_Kd maps\160707_sophia_wall_low_so_01_main_etc_aHfMpG_v03_wallso_aligned_ubcGMN4k_f0004k.jpg
+
+newmtl 160707_sophia_side_tilt_onion_merge_aHfM_v01_merged_chunk_ubcGMN_f0200k
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\160707_sophia_side_tilt_onion_merge_aHfM_v01_merged_chunk_ubcGMN_f0200k.jpg
+	map_Kd maps\160707_sophia_side_tilt_onion_merge_aHfM_v01_merged_chunk_ubcGMN_f0200k.jpg

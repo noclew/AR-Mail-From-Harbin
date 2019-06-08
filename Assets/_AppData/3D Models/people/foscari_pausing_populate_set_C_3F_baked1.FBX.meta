@@ -1,0 +1,228 @@
+fileFormatVersion: 2
+guid: 1230aea7a0c9939499d768c727edb24e
+timeCreated: 1483077309
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Female005AttachHelper
+    100002: Female005COM1
+    100004: Female005COM2
+    100006: Female005Head
+    100008: Female005LCalf
+    100010: Female005LClavicle
+    100012: Female005LFoot
+    100014: Female005LForeArm
+    100016: Female005LHand
+    100018: Female005LThigh
+    100020: Female005LToe
+    100022: Female005LUpperArm
+    100024: Female005Neck
+    100026: Female005Pelvis
+    100028: Female005RCalf
+    100030: Female005RClavicle
+    100032: Female005RFoot
+    100034: Female005RForeArm
+    100036: Female005RHand
+    100038: Female005RThigh
+    100040: Female005RToe
+    100042: Female005RUpperArm
+    100044: Female005Skin_001
+    100046: Female005Spine0
+    100048: Female005Spine1
+    100050: Female005Spine2
+    100052: Female005Spine3
+    100054: Female005Spine4
+    100056: //RootNode
+    100058: IdleArea002
+    400000: Female005AttachHelper
+    400002: Female005COM1
+    400004: Female005COM2
+    400006: Female005Head
+    400008: Female005LCalf
+    400010: Female005LClavicle
+    400012: Female005LFoot
+    400014: Female005LForeArm
+    400016: Female005LHand
+    400018: Female005LThigh
+    400020: Female005LToe
+    400022: Female005LUpperArm
+    400024: Female005Neck
+    400026: Female005Pelvis
+    400028: Female005RCalf
+    400030: Female005RClavicle
+    400032: Female005RFoot
+    400034: Female005RForeArm
+    400036: Female005RHand
+    400038: Female005RThigh
+    400040: Female005RToe
+    400042: Female005RUpperArm
+    400044: Female005Skin_001
+    400046: Female005Spine0
+    400048: Female005Spine1
+    400050: Female005Spine2
+    400052: Female005Spine3
+    400054: Female005Spine4
+    400056: //RootNode
+    400058: IdleArea002
+    4300000: Female005Skin_001
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Female005Skin_001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 420
+      wrapMode: 4
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Female005Skin_001
+        weight: 1
+      - path: IdleArea002
+        weight: 1
+      - path: IdleArea002/Female005AttachHelper
+        weight: 1
+      - path: IdleArea002/Female005AttachHelper/Female005COM1
+        weight: 1
+      - path: IdleArea002/Female005AttachHelper/Female005COM1/Female005COM2
+        weight: 1
+      - path: IdleArea002/Female005AttachHelper/Female005COM1/Female005COM2/Female005Pelvis
+        weight: 1
+      - path: IdleArea002/Female005AttachHelper/Female005COM1/Female005COM2/Female005Pelvis/Female005LThigh
+        weight: 1
+      - path: IdleArea002/Female005AttachHelper/Female005COM1/Female005COM2/Female005Pelvis/Female005LThigh/Female005LCalf
+        weight: 1
+      - path: IdleArea002/Female005AttachHelper/Female005COM1/Female005COM2/Female005Pelvis/Female005LThigh/Female005LCalf/Female005LFoot
+        weight: 1
+      - path: IdleArea002/Female005AttachHelper/Female005COM1/Female005COM2/Female005Pelvis/Female005LThigh/Female005LCalf/Female005LFoot/Female005LToe
+        weight: 1
+      - path: IdleArea002/Female005AttachHelper/Female005COM1/Female005COM2/Female005Pelvis/Female005RThigh
+        weight: 1
+      - path: IdleArea002/Female005AttachHelper/Female005COM1/Female005COM2/Female005Pelvis/Female005RThigh/Female005RCalf
+        weight: 1
+      - path: IdleArea002/Female005AttachHelper/Female005COM1/Female005COM2/Female005Pelvis/Female005RThigh/Female005RCalf/Female005RFoot
+        weight: 1
+      - path: IdleArea002/Female005AttachHelper/Female005COM1/Female005COM2/Female005Pelvis/Female005RThigh/Female005RCalf/Female005RFoot/Female005RToe
+        weight: 1
+      - path: IdleArea002/Female005AttachHelper/Female005COM1/Female005COM2/Female005Pelvis/Female005Spine0
+        weight: 1
+      - path: IdleArea002/Female005AttachHelper/Female005COM1/Female005COM2/Female005Pelvis/Female005Spine0/Female005Spine1
+        weight: 1
+      - path: IdleArea002/Female005AttachHelper/Female005COM1/Female005COM2/Female005Pelvis/Female005Spine0/Female005Spine1/Female005Spine2
+        weight: 1
+      - path: IdleArea002/Female005AttachHelper/Female005COM1/Female005COM2/Female005Pelvis/Female005Spine0/Female005Spine1/Female005Spine2/Female005Spine3
+        weight: 1
+      - path: IdleArea002/Female005AttachHelper/Female005COM1/Female005COM2/Female005Pelvis/Female005Spine0/Female005Spine1/Female005Spine2/Female005Spine3/Female005Spine4
+        weight: 1
+      - path: IdleArea002/Female005AttachHelper/Female005COM1/Female005COM2/Female005Pelvis/Female005Spine0/Female005Spine1/Female005Spine2/Female005Spine3/Female005Spine4/Female005LClavicle
+        weight: 1
+      - path: IdleArea002/Female005AttachHelper/Female005COM1/Female005COM2/Female005Pelvis/Female005Spine0/Female005Spine1/Female005Spine2/Female005Spine3/Female005Spine4/Female005LClavicle/Female005LUpperArm
+        weight: 1
+      - path: IdleArea002/Female005AttachHelper/Female005COM1/Female005COM2/Female005Pelvis/Female005Spine0/Female005Spine1/Female005Spine2/Female005Spine3/Female005Spine4/Female005LClavicle/Female005LUpperArm/Female005LForeArm
+        weight: 1
+      - path: IdleArea002/Female005AttachHelper/Female005COM1/Female005COM2/Female005Pelvis/Female005Spine0/Female005Spine1/Female005Spine2/Female005Spine3/Female005Spine4/Female005LClavicle/Female005LUpperArm/Female005LForeArm/Female005LHand
+        weight: 1
+      - path: IdleArea002/Female005AttachHelper/Female005COM1/Female005COM2/Female005Pelvis/Female005Spine0/Female005Spine1/Female005Spine2/Female005Spine3/Female005Spine4/Female005Neck
+        weight: 1
+      - path: IdleArea002/Female005AttachHelper/Female005COM1/Female005COM2/Female005Pelvis/Female005Spine0/Female005Spine1/Female005Spine2/Female005Spine3/Female005Spine4/Female005Neck/Female005Head
+        weight: 1
+      - path: IdleArea002/Female005AttachHelper/Female005COM1/Female005COM2/Female005Pelvis/Female005Spine0/Female005Spine1/Female005Spine2/Female005Spine3/Female005Spine4/Female005RClavicle
+        weight: 1
+      - path: IdleArea002/Female005AttachHelper/Female005COM1/Female005COM2/Female005Pelvis/Female005Spine0/Female005Spine1/Female005Spine2/Female005Spine3/Female005Spine4/Female005RClavicle/Female005RUpperArm
+        weight: 1
+      - path: IdleArea002/Female005AttachHelper/Female005COM1/Female005COM2/Female005Pelvis/Female005Spine0/Female005Spine1/Female005Spine2/Female005Spine3/Female005Spine4/Female005RClavicle/Female005RUpperArm/Female005RForeArm
+        weight: 1
+      - path: IdleArea002/Female005AttachHelper/Female005COM1/Female005COM2/Female005Pelvis/Female005Spine0/Female005Spine1/Female005Spine2/Female005Spine3/Female005Spine4/Female005RClavicle/Female005RUpperArm/Female005RForeArm/Female005RHand
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

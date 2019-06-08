@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="HA21-06" size="150.000000 225.000000" />
+    <ImageTarget name="HA21-05" size="150.000000 225.000000" />
+    <ImageTarget name="HA21-04" size="150.000000 225.000000" />
+    <ImageTarget name="HA21-03" size="150.000000 225.000000" />
+    <ImageTarget name="HA21-02" size="150.000000 225.000000" />
+    <ImageTarget name="HA21-01" size="150.000000 225.000000" />
+  </Tracking>
+</QCARConfig>

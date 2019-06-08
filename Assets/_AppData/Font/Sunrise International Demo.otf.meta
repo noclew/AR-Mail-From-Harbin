@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f4c1ada447d9b4f4aa0b54b162789a29
+timeCreated: 1501032763
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Sunrise International Demo
+  fontNames:
+  - Sunrise International Demo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

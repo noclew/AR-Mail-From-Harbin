@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71e88c2ffe40e4cc9a66791c565a8b29, type: 3}
+  m_Name: NcVersioingObject
+  m_EditorClassIdentifier: 
+  m_majorVersion: 2
+  m_minorVersion: 15
+  m_buildNumber: 1
+  m_buildCode: 2015001
+  m_unityVersion: 2019.1.5f1
+  m_vuforiaVersion: 8.1.0
+  m_ArCoreVersion: 
+  m_ArKitVersion: 
+  m_note: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e8b551362fd75a542ab36e2bdebbe3bd
+timeCreated: 1501033549
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SV Basic Manual
+  fontNames:
+  - SV Basic Manual
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9207f72bd68c72445b255c6e640f225b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

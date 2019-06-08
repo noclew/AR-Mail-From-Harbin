@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: e399fa4e10a2281468bd999b51873c86
+timeCreated: 1483077312
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Female000COM1
+    100002: Female000COM2
+    100004: Female000Head
+    100006: Female000LCalf
+    100008: Female000LClavicle
+    100010: Female000LFoot
+    100012: Female000LForeArm
+    100014: Female000LHand
+    100016: Female000LThigh
+    100018: Female000LToe
+    100020: Female000LUpperArm
+    100022: Female000Neck
+    100024: Female000Pelvis
+    100026: Female000RCalf
+    100028: Female000RClavicle
+    100030: Female000RFoot
+    100032: Female000RForeArm
+    100034: Female000RHand
+    100036: Female000RThigh
+    100038: Female000RToe
+    100040: Female000RUpperArm
+    100042: Female000Skin_001
+    100044: Female000Spine0
+    100046: Female000Spine1
+    100048: Female000Spine2
+    100050: Female000Spine3
+    100052: Female000Spine4
+    100054: //RootNode
+    400000: Female000COM1
+    400002: Female000COM2
+    400004: Female000Head
+    400006: Female000LCalf
+    400008: Female000LClavicle
+    400010: Female000LFoot
+    400012: Female000LForeArm
+    400014: Female000LHand
+    400016: Female000LThigh
+    400018: Female000LToe
+    400020: Female000LUpperArm
+    400022: Female000Neck
+    400024: Female000Pelvis
+    400026: Female000RCalf
+    400028: Female000RClavicle
+    400030: Female000RFoot
+    400032: Female000RForeArm
+    400034: Female000RHand
+    400036: Female000RThigh
+    400038: Female000RToe
+    400040: Female000RUpperArm
+    400042: Female000Skin_001
+    400044: Female000Spine0
+    400046: Female000Spine1
+    400048: Female000Spine2
+    400050: Female000Spine3
+    400052: Female000Spine4
+    400054: //RootNode
+    4300000: Female000Skin_001
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Female000Skin_001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 955
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Female000COM1
+        weight: 1
+      - path: Female000COM1/Female000COM2
+        weight: 1
+      - path: Female000COM1/Female000COM2/Female000Pelvis
+        weight: 1
+      - path: Female000COM1/Female000COM2/Female000Pelvis/Female000LThigh
+        weight: 1
+      - path: Female000COM1/Female000COM2/Female000Pelvis/Female000LThigh/Female000LCalf
+        weight: 1
+      - path: Female000COM1/Female000COM2/Female000Pelvis/Female000LThigh/Female000LCalf/Female000LFoot
+        weight: 1
+      - path: Female000COM1/Female000COM2/Female000Pelvis/Female000LThigh/Female000LCalf/Female000LFoot/Female000LToe
+        weight: 1
+      - path: Female000COM1/Female000COM2/Female000Pelvis/Female000RThigh
+        weight: 1
+      - path: Female000COM1/Female000COM2/Female000Pelvis/Female000RThigh/Female000RCalf
+        weight: 1
+      - path: Female000COM1/Female000COM2/Female000Pelvis/Female000RThigh/Female000RCalf/Female000RFoot
+        weight: 1
+      - path: Female000COM1/Female000COM2/Female000Pelvis/Female000RThigh/Female000RCalf/Female000RFoot/Female000RToe
+        weight: 1
+      - path: Female000COM1/Female000COM2/Female000Pelvis/Female000Spine0
+        weight: 1
+      - path: Female000COM1/Female000COM2/Female000Pelvis/Female000Spine0/Female000Spine1
+        weight: 1
+      - path: Female000COM1/Female000COM2/Female000Pelvis/Female000Spine0/Female000Spine1/Female000Spine2
+        weight: 1
+      - path: Female000COM1/Female000COM2/Female000Pelvis/Female000Spine0/Female000Spine1/Female000Spine2/Female000Spine3
+        weight: 1
+      - path: Female000COM1/Female000COM2/Female000Pelvis/Female000Spine0/Female000Spine1/Female000Spine2/Female000Spine3/Female000Spine4
+        weight: 1
+      - path: Female000COM1/Female000COM2/Female000Pelvis/Female000Spine0/Female000Spine1/Female000Spine2/Female000Spine3/Female000Spine4/Female000LClavicle
+        weight: 1
+      - path: Female000COM1/Female000COM2/Female000Pelvis/Female000Spine0/Female000Spine1/Female000Spine2/Female000Spine3/Female000Spine4/Female000LClavicle/Female000LUpperArm
+        weight: 1
+      - path: Female000COM1/Female000COM2/Female000Pelvis/Female000Spine0/Female000Spine1/Female000Spine2/Female000Spine3/Female000Spine4/Female000LClavicle/Female000LUpperArm/Female000LForeArm
+        weight: 1
+      - path: Female000COM1/Female000COM2/Female000Pelvis/Female000Spine0/Female000Spine1/Female000Spine2/Female000Spine3/Female000Spine4/Female000LClavicle/Female000LUpperArm/Female000LForeArm/Female000LHand
+        weight: 1
+      - path: Female000COM1/Female000COM2/Female000Pelvis/Female000Spine0/Female000Spine1/Female000Spine2/Female000Spine3/Female000Spine4/Female000Neck
+        weight: 1
+      - path: Female000COM1/Female000COM2/Female000Pelvis/Female000Spine0/Female000Spine1/Female000Spine2/Female000Spine3/Female000Spine4/Female000Neck/Female000Head
+        weight: 1
+      - path: Female000COM1/Female000COM2/Female000Pelvis/Female000Spine0/Female000Spine1/Female000Spine2/Female000Spine3/Female000Spine4/Female000RClavicle
+        weight: 1
+      - path: Female000COM1/Female000COM2/Female000Pelvis/Female000Spine0/Female000Spine1/Female000Spine2/Female000Spine3/Female000Spine4/Female000RClavicle/Female000RUpperArm
+        weight: 1
+      - path: Female000COM1/Female000COM2/Female000Pelvis/Female000Spine0/Female000Spine1/Female000Spine2/Female000Spine3/Female000Spine4/Female000RClavicle/Female000RUpperArm/Female000RForeArm
+        weight: 1
+      - path: Female000COM1/Female000COM2/Female000Pelvis/Female000Spine0/Female000Spine1/Female000Spine2/Female000Spine3/Female000Spine4/Female000RClavicle/Female000RUpperArm/Female000RForeArm/Female000RHand
+        weight: 1
+      - path: Female000Skin_001
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

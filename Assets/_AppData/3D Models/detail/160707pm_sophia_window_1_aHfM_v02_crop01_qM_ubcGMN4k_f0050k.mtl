@@ -1,0 +1,17 @@
+newmtl Solid
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 0
+
+newmtl 160707pm_sophia_window_1_aHfM_v02_crop01_qM_ubcGMN4k_f0050k
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 0
+map_Kd 160707pm_sophia_window_1_aHfM_v02_crop01_qM_ubcGMN4k_f0050k.jpg
+

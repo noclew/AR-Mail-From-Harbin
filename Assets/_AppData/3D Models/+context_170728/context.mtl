@@ -1,0 +1,16 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 28.07.2017 03:37:46
+
+newmtl 160707am_sophia_context_down_etc_aHfMpG_v02_Cleaned01_qP_qM_ubcGMN4k_f0004k
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\160707am_sophia_context_down_etc_aHfMpG_v02_Cleaned01_qP_qM_ubcGMN4k_f0004k.jpg
+	map_Kd maps\160707am_sophia_context_down_etc_aHfMpG_v02_Cleaned01_qP_qM_ubcGMN4k_f0004k.jpg

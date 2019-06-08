@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 061280b26787bed42b299cbb2155931a
+timeCreated: 1501032763
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Vendetta
+  fontNames:
+  - Vendetta
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
