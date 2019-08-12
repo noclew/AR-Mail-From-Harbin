@@ -1,7 +1,7 @@
 # AR Mail From Harbin
 
 Unity Version: 2019.1.5f1  
-Vuforia Version: 8.1.0
+Vuforia Version: 8.1.0 
 AppVersion Version: 2.15.2
 
 Now the project files are compatible with the lastest dev tools above.
